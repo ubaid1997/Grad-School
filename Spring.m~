@@ -153,14 +153,4 @@ D = [0:.01:1];
 d = [0:.001:.2];
 N = [0:1:25];
 
-
-for i = 1:length(D)
-    for j = 1:length(d)
-        for k = 1:length(k)
-            
-            
-            
-            
-        end
-    end
-end
+% for D
